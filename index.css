@@ -1,0 +1,18 @@
+.ruta{
+  border: 10px outset blue;
+  background-color: lightblue;
+  display: grid;
+  text-align: center;
+  
+}
+.simonbil{
+  border: 10px outset black;
+  margin: auto;
+}
+.header{
+  border: 10px outset black;
+  background-color: lightblue;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  text-align: center;
+}
